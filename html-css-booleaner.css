@@ -38,5 +38,17 @@ h5 {
 }
 
 .sottolineato {background-color: rgb(255, 255, 0);
+    color: black;
     
+}
+
+th{ background-color: rgb(47, 151, 211);
+    color: white;
+}
+
+.colonna1{background-color: rgb(218, 218, 218);
+}
+
+.colonna3{background-color: rgb(218, 218, 218);
+
 }
