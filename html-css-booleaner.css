@@ -52,3 +52,16 @@ th{ background-color: rgb(47, 151, 211);
 .colonna3{background-color: rgb(218, 218, 218);
 
 }
+
+footer{background-color: rgb(31, 57, 75);
+    size: width: 30px;
+    height: 30px;
+    margin: 15px 0px;
+}
+
+.copyright{
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-size: 10px;
+}
