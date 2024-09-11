@@ -5,4 +5,13 @@ header{
 
 
 .logo{ width: 200px; height: auto;
+ padding: 25px;   
 }
+
+h1{margin: auto;
+}
+
+.sottotitolo {margin:auto;
+    font-weight: 100;
+}
+span{ color: rgb(33, 137, 255);}
